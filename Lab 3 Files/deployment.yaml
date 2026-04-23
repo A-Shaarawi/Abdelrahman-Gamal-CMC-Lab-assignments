@@ -8,6 +8,7 @@ spec:
     matchLabels:
       app: lab3-web
   template:
+  
     metadata:
       labels:
         app: lab3-web
